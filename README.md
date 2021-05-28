@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Carvalho</h1>
-<h3 align="center">Systems developer and technology enthusiast from Brazil <img src="https://img-premium.flaticon.com/png/512/330/330430.png?token=exp=1622159565~hmac=ce10e1fb83b366e1248d2342b72a8ff0" width="16"/> </h3>
+<h3 align="center">Systems developer and technology enthusiast from Brazi 🇧🇷 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluizcarvalho" alt="oluizcarvalho" /> </p>
 
 - 🔭 Tech Leader Frontend  
